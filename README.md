@@ -2,7 +2,7 @@
 
 # PHYS220/MATH220/CPSC220 CW 6
 
-**Author(s):** **CHANGEME**
+**Author(s):** Natanael ,Monica, and Enea 
 
 ## Specification
 
@@ -22,9 +22,9 @@
 
 ## Assessment
 
-Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have. You can use the GitHub web interface to edit this file directly for now.
+we learned how to review and critique other people work
 
-**CHANGEME**
+Nataael ,Monica, and Enea
 
 ## Honor Pledge
 
@@ -35,4 +35,5 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAMES**
+Nataael ,Monica, and Enea 
+
